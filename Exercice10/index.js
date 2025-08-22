@@ -1,7 +1,3 @@
-//votre code ici
-
-export default printNumbers
-
 function printNumbers(n) {
   let x = '';
 

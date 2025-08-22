@@ -1,0 +1,9 @@
+@import 'variables';
+
+ul {
+    li {
+        color: $blue;
+        padding-left: $padding;
+        margin-bottom: $margin;
+    }
+}
